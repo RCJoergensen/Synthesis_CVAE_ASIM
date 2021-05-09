@@ -14,4 +14,5 @@ In the TrainedModels folder all the trained models presented in the report can b
 GroundTruth_Table.xlsx is the groundtruth dataset created for the scoring of the CVAE. However, the raw datafiles are not included, as the ASIM dataset is not publicly available.
 
 Author: RCJ, s164044, DTU Space
+
 Last Edited: 09/05/2021
